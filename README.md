@@ -1,4 +1,4 @@
-[https://link-to-your-gif.gif](https://www.gifcen.com/wp-content/uploads/2025/05/dinosaur-game-gif-1.gif)
+![Image](https://github.com/user-attachments/assets/3d1e054c-d1a4-4ec5-851c-3719983e2531)
 
 # 💫 About Me:
 👨‍💻 DevSecOps Enthusiast with a passion for building secure, scalable, and automated environments.<br><br>🛡️ Focus Areas: Everything related to Networking, Security, and Scripting.<br><br>⚙️ Mission: I love building systems that empower teams—turning complex operations into simple "one-click" solutions to optimize workflows and boost productivity.<br><br>🌍 Philosophy: Huge advocate for Open Source – In code we trust.
