@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ff00&width=500&lines=Architecting+Scalable+Solutions;Driving+Operational+Excellence;Advancing+DevSecOps+Postures;Automating+Complex+Workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ff00&width=500&lines=Building+Secure+Infrastructure;Exploring+AI+and+AIOps;Focusing+on+DevSecOps+and+Security;Automating+with+Python+and+Bash" alt="Typing SVG" />
 </p>
 
 <br>
