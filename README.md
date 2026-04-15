@@ -23,7 +23,7 @@
 - [x] **Shell Scripts for Beginners** ✅
 
 ### 🗺️ Learning Roadmap:
-- [ ] **Certified Kubernetes Administrator (CKA)** ☸️ *(In Progress)*
+- [ ] **Certified Kubernetes Administrator (CKA)** ☸️
 - [ ] **Terraform for Beginners** 🏗️
 - [ ] **Ansible for Beginners** 🤖
 - [ ] **DevSecOps Learning Path** 🛡️
@@ -43,14 +43,14 @@
 | :--- | :--- |
 | **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![ArgoCD](https://img.shields.io/badge/argocd-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white) |
 | **IaC** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) |
-| **Monitoring** | ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic-stack&logoColor=white) |
+| **Monitoring** | ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) |
 | **DevOps** | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 | **Programming** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | **Security** | ![Cilium](https://img.shields.io/badge/Cilium-3EAAAF?style=for-the-badge&logo=cilium&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-3450A4?style=for-the-badge&logo=trivy&logoColor=white) |
 
 ---
 
-## 🤖 GitHub Activities
+## 🤖 GitHub Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chrisignat&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 </p>
