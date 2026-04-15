@@ -42,7 +42,7 @@
 
 ---
 🎓 Completed Courses (KodeKloud):
-[x] Learn By Doing: AWS Workshop with Terraform ✅
+[x] **Learn By Doing: AWS Workshop with Terraform** ✅
 
 [x] Kubernetes Networking Deep Dive ✅
 
