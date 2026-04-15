@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=180&section=header&text=Platform%20%26%20DevSecOps%20Enthusiast%20%7C%20Exploring%20the%20future%20of%20AIOps&fontSize=22&animation=fadeIn&fontColor=ffffff&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=Platform%20%26%20DevSecOps%20Enthusiast%20-%20Exploring%20the%20future%20of%20AIOps&fontSize=20&animation=fadeIn&fontColor=ffffff&theme=dark" />
 </p>
 
 # 💫 About Me:
