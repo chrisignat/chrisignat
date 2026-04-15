@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <h1>Platform & DevSecOps Enthusiast | Exploring the future of AIOps</h1>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=Platform%20/%20AIOps%20/%20DevSecOps%20Enthusiast&fontSize=35&animation=fadeIn&fontColor=ffffff&theme=dark" />
 </p>
 
