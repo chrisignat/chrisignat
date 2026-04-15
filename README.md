@@ -1,11 +1,22 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0077B5&style=flat" alt="Views" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=DevSecOps%20Engineer&fontSize=50&animation=fadeIn&fontColor=ffffff&theme=vision-glow" />
 </p>
 
 # 💫 About Me:
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&width=435&lines=Security+and+Scripting+Lover;Open+Source+Advocate;In+Code+We+Trust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&width=435&lines=DevSecOps+Enthusiast;Security+and+Scripting+Lover;Open+Source+Advocate;In+Code+We+Trust" alt="Typing SVG" />
 
 👨‍💻 DevSecOps Enthusiast with a passion for building secure, scalable, and automated environments.<br><br>🛡️ Focus Areas: Everything related to Networking, Security, and Scripting.<br><br>⚙️ Mission: I love building systems that empower teams—turning complex operations into simple "one-click" solutions to optimize workflows and boost productivity.<br><br>🌍 Philosophy: Huge advocate for Open Source – In code we trust.
+
+---
+
+## 🏆 GitHub Trophies:
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=vision-glow&column=7&margin-w=15&no-bg=true" alt="Trophies" />
+</p>
 
 ---
 
@@ -18,7 +29,7 @@
 
 ## 💻 Tech Stack & Tools
 
-| Κατηγορία | Εργαλεία |
+| Category | Tools |
 | :--- | :--- |
 | **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![ArgoCD](https://img.shields.io/badge/argocd-%23EF7B4D.svg?style=plastic&logo=argo&logoColor=white) |
 | **IaC** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white) |
@@ -32,7 +43,7 @@
 
 ## 📊 My GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ΤΟ_USERNAME_ΣΟΥ&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ΤΟ_USERNAME_ΣΟΥ&layout=compact&theme=vision-glow" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vision-glow" alt="Top Languages" />
 </p>
