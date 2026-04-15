@@ -3,11 +3,6 @@
 
 👨‍💻 DevSecOps Enthusiast with a passion for building secure, scalable, and automated environments.<br><br>🛡️ Focus Areas: Everything related to Networking, Security, and Scripting.<br><br>⚙️ Mission: I love building systems that empower teams—turning complex operations into simple "one-click" solutions to optimize workflows and boost productivity.<br><br>🌍 Philosophy: Huge advocate for Open Source – In code we trust.
 
-## 📊 My GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ΤΟ_USERNAME_ΣΟΥ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ΤΟ_USERNAME_ΣΟΥ&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christos-ignatiadis) 
