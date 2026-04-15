@@ -18,12 +18,17 @@
 - 🛡️ **DevSecOps** - Integrating security at every stage of the CI/CD pipeline.
 
 ---
-
-## 🌐 Connect with me:
+## 🏗️ DevOps Lifecycle & Automation
 <p align="left">
-<a href="https://linkedin.com/in/christos-ignatiadis" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="40" width="40" /></a>
+  <img src="https://img.shields.io/badge/Plan-%23000000.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Python%20%7C%20Bash-blue?style=for-the-badge&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/Build-GitHub%20Actions-blue?style=for-the-badge&logo=github-actions" />
+  <img src="https://img.shields.io/badge/Security-Trivy%20%7C%20Cilium-green?style=for-the-badge&logo=securityscorecard" />
+  <img src="https://img.shields.io/badge/Deploy-ArgoCD%20%7C%20K8s-orange?style=for-the-badge&logo=argocd" />
+  <img src="https://img.shields.io/badge/Monitor-Grafana-F46800?style=for-the-badge&logo=grafana" />
 </p>
 
+> **Current Sprint:** Migrating legacy workloads to GitOps patterns and fine-tuning AIOps monitoring.
 ---
 
 ## 💻 Tech Stack & Tools
