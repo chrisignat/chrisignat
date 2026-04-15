@@ -1,14 +1,14 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=chrisignat&label=Profile%20Views&color=0077B5&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=chrisignat&label=Profile%20Views&color=0077B5&style=flat-square" alt="Views" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=Cloud%20Native%20%26%20Intelligent%20Infrastructure%20Enthusiast&fontSize=30&animation=fadeIn&fontColor=ffffff&theme=vision-glow" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=Cloud%20Native%20%26%20Intelligent%20Infrastructure%20Enthusiast&fontSize=30&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 # 💫 About Me:
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ff00&width=500&lines=%22Platform+Engineering+Enthusiast%22;%22AIOps+%2F+MLOps+Explorer%22;%22Security+%26+Automation+Aspirant%22;%22In+Code+We+Trust%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ff00&width=500&lines=Architecting+Scalable+Solutions;Driving+Operational+Excellence;Advancing+DevSecOps+Postures;Automating+Complex+Workflows" alt="Typing SVG" />
 </p>
 
 <br>
