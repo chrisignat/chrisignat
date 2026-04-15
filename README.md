@@ -7,17 +7,17 @@
 </p>
 
 # 💫 About Me:
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&width=435&lines=Platform+Engineering;AIOps+/+MLOps;DevSecOps+Enthusiast;Automating+Everything" alt="Typing SVG" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ff00&width=500&lines=%22Platform+Engineering+Enthusiast%22;%22AIOps+%2F+MLOps+Explorer%22;%22Security+%26+Automation+Aspirant%22;%22In+Code+We+Trust%22" alt="Typing SVG" />
+</p>
 
 <br>
-👨‍💻 Enthusiast with a passion for building secure, scalable, and automated environments.<br><br>🛡️ Focus Areas: Everything related to Networking, Security, and Scripting.<br><br>⚙️ Mission: I love building systems that empower teams—turning complex operations into simple "one-click" solutions to optimize workflows and boost productivity.<br><br>🌍 Philosophy: Huge advocate for Open Source – In code we trust.
+👨‍💻 DevSecOps Enthusiast with a passion for building secure, scalable, and automated environments.<br><br>🛡️ Focus Areas: Everything related to Networking, Security, and Scripting.<br><br>⚙️ Mission: I love building systems that empower teams—turning complex operations into simple "one-click" solutions to optimize workflows and boost productivity.<br><br>🌍 Philosophy: Huge advocate for Open Source – In code we trust.
 
-### 🗺️ KodeKloud Roadmap:
-- [x] **Docker Training Course**
-- [ ] **Certified Kubernetes Administrator (CKA)** *(In Progress)*
-- [ ] **Terraform for Beginners**
-- [ ] **Ansible for Beginners**
-- [ ] **DevSecOps Learning Path**
+### 🎯 Areas of Interest:
+- 🚀 **Platform Engineering** - Building robust Internal Developer Platforms (IDP).
+- 🤖 **AIOps / MLOps** - Automating and scaling AI model lifecycles and infrastructure.
+- 🛡️ **DevSecOps** - Integrating security at every stage of the CI/CD pipeline.
 
 ---
 
