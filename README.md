@@ -1,10 +1,9 @@
 <p align="right">
-<p align="right">
   <img src="https://komarev.com/ghpvc/?username=chrisignat&label=Profile%20Views&color=0077B5&style=flat-square" alt="Views" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=Cloud%20Native%20%26%20Intelligent%20Infrastructure%20Enthusiast&fontSize=30&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=Platform%20/%20AIOps%20/%20DevSecOps%20Enthusiast&fontSize=35&animation=fadeIn&fontColor=ffffff&theme=dark" />
 </p>
 
 # 💫 About Me:
