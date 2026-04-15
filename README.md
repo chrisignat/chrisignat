@@ -1,22 +1,18 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=chrisignat&label=System%20Load&color=0077B5&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=chrisignat&label=Profile%20Views&color=0077B5&style=flat-square" alt="Views" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=Platform%20%26%20AI%20Infrastructure%20Enthusiast&fontSize=35&animation=fadeIn&fontColor=ffffff&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=Cloud%20Native%20%26%20Intelligent%20Infrastructure%20Enthusiast&fontSize=30&animation=fadeIn&fontColor=ffffff&theme=vision-glow" />
 </p>
 
 # 💫 About Me:
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ff00&width=500&lines=%22Automating+Everything%22;%22Scaling+AI+with+Security+First%22;%22In+Code+We+Trust%22;%22Building+the+Bridge+to+MLOps%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ff00&width=500&lines=%22Platform+Engineering+Enthusiast%22;%22AIOps+%2F+MLOps+Explorer%22;%22Security+%26+Automation+Aspirant%22;%22In+Code+We+Trust%22" alt="Typing SVG" />
 </p>
 
 <br>
-👨‍💻 **Hybrid Engineer** focused on building secure, scalable, and automated environments.<br><br>🛡️ **Core Mission:** Automating everything from Infrastructure (IaC) to Model Deployment (MLOps), ensuring that every bit of code is secure by design.<br><br>⚙️ **Mission:** I love building systems that empower teams—turning complex operations into simple "one-click" solutions to optimize workflows and boost productivity.
-
----
-
-## 🚀 Platform / AIOps / DevSecOps Enthusiast
+👨‍💻 DevSecOps Enthusiast with a passion for building secure, scalable, and automated environments.<br><br>🛡️ Focus Areas: Everything related to Networking, Security, and Scripting.<br><br>⚙️ Mission: I love building systems that empower teams—turning complex operations into simple "one-click" solutions to optimize workflows and boost productivity.<br><br>🌍 Philosophy: Huge advocate for Open Source – In code we trust.
 
 ### 🎓 Completed Courses (KodeKloud):
 - [x] **Docker Training Course** ✅
@@ -52,3 +48,13 @@
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 
 ---
+
+## 📊 GitHub Activities
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chrisignat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisignat&layout=compact&theme=tokyonight" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisignat&theme=tokyonight" alt="GitHub Streak" />
+</p>
