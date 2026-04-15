@@ -2,6 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=chrisignat&label=Profile%20Views&color=0077B5&style=flat-square" alt="Views" />
 </p>
 
+# Platform & DevSecOps Enthusiast | Exploring the future of AIOps
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=Platform%20/%20AIOps%20/%20DevSecOps%20Enthusiast&fontSize=35&animation=fadeIn&fontColor=ffffff&theme=dark" />
 </p>
