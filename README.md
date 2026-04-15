@@ -39,7 +39,10 @@
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 
 ---
-
+### 📈 Contribution Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chrisignat&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+</p>
 ---
 
 ## 📊 GitHub Activities
