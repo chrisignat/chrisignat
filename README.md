@@ -18,17 +18,10 @@
 - 🛡️ **DevSecOps** - Integrating security at every stage of the CI/CD pipeline.
 
 ---
-## 🏗️ DevOps Lifecycle & Automation
-<p align="left">
-  <img src="https://img.shields.io/badge/Plan-%23000000.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-Python%20%7C%20Bash-blue?style=for-the-badge&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/Build-GitHub%20Actions-blue?style=for-the-badge&logo=github-actions" />
-  <img src="https://img.shields.io/badge/Security-Trivy%20%7C%20Cilium-green?style=for-the-badge&logo=securityscorecard" />
-  <img src="https://img.shields.io/badge/Deploy-ArgoCD%20%7C%20K8s-orange?style=for-the-badge&logo=argocd" />
-  <img src="https://img.shields.io/badge/Monitor-Grafana-F46800?style=for-the-badge&logo=grafana" />
-</p>
-
-> **Current Sprint:** Migrating legacy workloads to GitOps patterns and fine-tuning AIOps monitoring.
+### 🛠️ Proficiency:
+- **Kubernetes / Docker** ![Progress](https://progress-bar.dev/95/?title=Mastery&color=0077B5)
+- **Security / DevSecOps** ![Progress](https://progress-bar.dev/85/?title=Security&color=0077B5)
+- **Python / Automation** ![Progress](https://progress-bar.dev/80/?title=Scripting&color=0077B5)
 ---
 
 ## 💻 Tech Stack & Tools
