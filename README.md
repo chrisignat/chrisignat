@@ -1,61 +1,47 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=chrisignat&label=System%20Load&color=0077B5&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=chrisignat&label=Profile%20Views&color=0077B5&style=flat-square" alt="Views" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=Platform%20%26%20AI%20Infrastructure%20Enthusiast&fontSize=35&animation=fadeIn&fontColor=ffffff&theme=vision-glow" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=Platform%20/%20AIOps%20/%20DevSecOps%20Enthusiast&fontSize=35&animation=fadeIn&fontColor=ffffff&theme=vision-glow" />
 </p>
 
 # 💫 About Me:
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&width=500&lines=Platform+Engineering+Enthusiast;AIOps+%26+MLOps+Explorer;DevSecOps+Practitioner+in+the+making;Automating+Everything" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&width=435&lines=Platform+Engineering;AIOps+/+MLOps;DevSecOps+Enthusiast;Automating+Everything" alt="Typing SVG" />
 
 <br>
-👨‍💻 **Cloud Native Enthusiast** on a mission to master the art of Platform Engineering. I focus on building secure, automated, and scalable environments, bridging the gap between traditional DevOps and the new era of AI-driven operations.<br><br>🛡️ **Current Focus:** Deep diving into Kubernetes orchestration, Security hardening, and MLOps pipelines.
+👨‍💻 Enthusiast with a passion for building secure, scalable, and automated environments.<br><br>🛡️ Focus Areas: Everything related to Networking, Security, and Scripting.<br><br>⚙️ Mission: I love building systems that empower teams—turning complex operations into simple "one-click" solutions to optimize workflows and boost productivity.<br><br>🌍 Philosophy: Huge advocate for Open Source – In code we trust.
 
----
-
-## 🗺️ Learning Roadmap (Inspired by KodeKloud)
-<p align="left">
-  <img src="https://img.shields.io/badge/Current%20Track-DevOps%20Learning%20Path-blueviolet?style=for-the-badge&logo=kodekloud" />
-</p>
-
-- [x] **Docker & Container Fundamentals** 🐳
-- [ ] **Certified Kubernetes Administrator (CKA)** ☸️ *(In Progress)*
-- [ ] **Infrastructure as Code (Terraform & Ansible)** 🏗️
-- [ ] **DevSecOps: Implementation & Security Scanning** 🛡️
-- [ ] **MLOps Fundamentals & Model Deployment** 🤖
-
----
-
-## 🏗️ My DevOps Workflow
-<p align="left">
-  <img src="https://img.shields.io/badge/Plan-Git-%23000000?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/CI-GitHub%20Actions-blue?style=for-the-badge&logo=github-actions" />
-  <img src="https://img.shields.io/badge/Security-Trivy-green?style=for-the-badge&logo=securityscorecard" />
-  <img src="https://img.shields.io/badge/CD-ArgoCD-orange?style=for-the-badge&logo=argocd" />
-</p>
-
----
-
-## 💻 Tech Stack
-
-| Category | Tools |
-| :--- | :--- |
-| **Orchestration** | ![K8s](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat&logo=docker&logoColor=white) |
-| **Automation** | ![Terraform](https://img.shields.io/badge/-Terraform-623ce4?style=flat&logo=terraform) ![Ansible](https://img.shields.io/badge/-Ansible-ee0000?style=flat&logo=ansible) |
-| **CI/CD** | ![Actions](https://img.shields.io/badge/-Actions-20232a?style=flat&logo=github-actions) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-ef7b4d?style=flat&logo=argo) |
-| **Monitoring** | ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus) |
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chrisignat&theme=tokyo-night&area=true&hide_border=true" width="100%" />
-</p>
+### 🗺️ KodeKloud Roadmap:
+- [x] **Docker Training Course**
+- [ ] **Certified Kubernetes Administrator (CKA)** *(In Progress)*
+- [ ] **Terraform for Beginners**
+- [ ] **Ansible for Beginners**
+- [ ] **DevSecOps Learning Path**
 
 ---
 
 ## 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/christos-ignatiadis" target="blank"><img src="https://skillicons.dev/icons?i=linkedin,github,gmail" /></a>
+<a href="https://linkedin.com/in/christos-ignatiadis" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="40" width="40" /></a>
+</p>
+
+---
+
+## 💻 Tech Stack & Tools
+
+| Category | Tools |
+| :--- | :--- |
+| **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![ArgoCD](https://img.shields.io/badge/argocd-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white) |
+| **IaC** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) |
+| **Monitoring** | ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![ElasticStack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic-stack&logoColor=white) ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white) ![Graylog](https://img.shields.io/badge/Graylog-FF3111?style=for-the-badge&logo=graylog&logoColor=white) |
+| **DevOps** | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| **Programming** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **Security** | ![Cilium](https://img.shields.io/badge/Cilium-3EAAAF?style=for-the-badge&logo=cilium&logoColor=white) ![Checkov](https://img.shields.io/badge/Checkov-24292E?style=for-the-badge&logo=bridgecrew&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-3450A4?style=for-the-badge&logo=trivy&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisignat&theme=vision-glow" alt="GitHub Streak" />
 </p>
