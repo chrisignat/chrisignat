@@ -1,14 +1,15 @@
 <p align="right">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=chrisignat&label=Profile%20Views&color=0077B5&style=flat-square" alt="Views" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=Platform%20/%20AIOps%20/%20DevSecOps%20Enthusiast&fontSize=35&animation=fadeIn&fontColor=ffffff&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=Cloud%20Native%20%26%20Intelligent%20Infrastructure%20Enthusiast&fontSize=30&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 # 💫 About Me:
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ff00&width=500&lines=%3Cquote%3EPlatform+Engineering+Enthusiast%3C%2Fquote%3E;%3Cquote%3EAIOps+%2F+MLOps+Explorer%3C%2Fquote%3E;%3Cquote%3ESecurity+%26+Automation+Aspirant%3C%2Fquote%3E;%3Cquote%3EIn+Code+We+Trust%3C%2Fquote%3E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ff00&width=500&lines=Building+Secure+Infrastructure;Exploring+AI+and+AIOps;Focusing+on+DevSecOps+and+Security;Automating+with+Python+and+Bash" alt="Typing SVG" />
 </p>
 
 <br>
