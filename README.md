@@ -19,9 +19,9 @@
 
 ---
 ### 🛠️ Proficiency:
-- **Kubernetes / Docker** ![Progress](https://progress-bar.dev/95/?title=Mastery&color=0077B5)
-- **Security / DevSecOps** ![Progress](https://progress-bar.dev/85/?title=Security&color=0077B5)
-- **Python / Automation** ![Progress](https://progress-bar.dev/80/?title=Scripting&color=0077B5)
+- **Kubernetes / Docker** ![95%](https://img.shields.io/badge/Mastery-95%25-0077B5?style=flat-square)
+- **Security / DevSecOps** ![85%](https://img.shields.io/badge/Security-85%25-0077B5?style=flat-square)
+- **Python / Automation** ![80%](https://img.shields.io/badge/Scripting-80%25-0077B5?style=flat-square)
 ---
 
 ## 💻 Tech Stack & Tools
@@ -35,8 +35,6 @@
 | **Programming** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | **Security** | ![Cilium](https://img.shields.io/badge/Cilium-3EAAAF?style=for-the-badge&logo=cilium&logoColor=white) ![Checkov](https://img.shields.io/badge/Checkov-24292E?style=for-the-badge&logo=bridgecrew&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-3450A4?style=for-the-badge&logo=trivy&logoColor=white) |
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-
----
 
 ---
 
