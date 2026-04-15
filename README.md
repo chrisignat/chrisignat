@@ -41,44 +41,46 @@
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 
 ---
-🎓 Completed Courses (KodeKloud):
-[ x ] **Learn By Doing: AWS Workshop with Terraform** ✅
+### 🎓 Completed Courses (KodeKloud):
 
-[x] Kubernetes Networking Deep Dive ✅
+- [x] **Learn By Doing: AWS Workshop with Terraform** ✅
 
-[x] Ultimate Certified Kubernetes Administrator (CKA) Mock Exam ✅
+- [x] **Kubernetes Networking Deep Dive** ✅
 
-[x] Learn-By-Doing Kubernetes Network Policies ✅
+- [x] **Ultimate Certified Kubernetes Administrator (CKA) Mock Exam** ✅
 
-[x] Prep Course - Prometheus Certified Associate (PCA) ✅
+- [x] **Learn-By-Doing Kubernetes Network Policies** ✅
 
-[x] Learn By Doing: AIOps Foundations ✅
+- [x] **Prep Course - Prometheus Certified Associate (PCA)** ✅
 
-[x] Terraform Associate Certification: HashiCorp ✅
+- [x] **Learn By Doing: AIOps Foundations** ✅
 
-[x] Certified Kubernetes Administrator (CKA) ✅
+- [x] **Terraform Associate Certification: HashiCorp** ✅
 
-[x] Docker Certified Associate Exam Course ✅
+- [x] **Certified Kubernetes Administrator (CKA)** ✅
 
-[x] Running Local LLMs With Ollama ✅
+- [x] **Docker Certified Associate Exam Course** ✅
 
-[x] Grafana Loki ✅
+- [x] **Running Local LLMs With Ollama** ✅
 
-[x] AI Agents ✅
+- [x] **Grafana Loki** ✅
 
-[x] Ansible Advanced Course ✅
+- [x] **AI Agents** ✅
 
-[x] AI Assisted Ansible ✅
+- [x] **Ansible Advanced Course** ✅
 
-[x] Learn Ansible Basics – Beginners Course ✅
+- [x] **AI Assisted Ansible** ✅
 
-[x] Docker Training Course for the Absolute Beginner ✅
+- [x] **Learn Ansible Basics – Beginners Course** ✅
 
+- [x] **Docker Training Course for the Absolute Beginner** ✅
 
+---
 
 ### 🗺️ Learning Roadmap:
 
 - [ ] **Prep Course - Cilium Certified Associate (CCA) Certification**
+
 - [ ] **DevSecOps Learning Path** 🛡️
 ---
 
