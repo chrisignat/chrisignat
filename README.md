@@ -18,11 +18,6 @@
 - 🛡️ **DevSecOps** - Integrating security at every stage of the CI/CD pipeline.
 
 ---
-### 🛠️ Proficiency:
-- **Kubernetes / Docker** ![95%](https://img.shields.io/badge/Mastery-95%25-0077B5?style=flat-square)
-- **Security / DevSecOps** ![85%](https://img.shields.io/badge/Security-85%25-0077B5?style=flat-square)
-- **Python / Automation** ![80%](https://img.shields.io/badge/Scripting-80%25-0077B5?style=flat-square)
----
 
 ## 💻 Tech Stack & Tools
 
