@@ -45,3 +45,27 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisignat&theme=dark" alt="GitHub Streak" />
 </p>
+
+---
+### 🎓 Completed Courses (KodeKloud):
+
+- [x] **Docker Training Course** ✅
+
+- [x] **Kubernetes for the Absolute Beginners** ✅
+
+- [x] **Linux Basics Course** ✅
+
+- [x] **Shell Scripts for Beginners** ✅
+
+
+
+### 🗺️ Learning Roadmap:
+
+- [ ] **Certified Kubernetes Administrator (CKA)** ☸️ *(In Progress)*
+
+- [ ] **Terraform for Beginners** 🏗️
+
+- [ ] **Ansible for Beginners** 🤖
+
+- [ ] **DevSecOps Learning Path** 🛡️
+---
