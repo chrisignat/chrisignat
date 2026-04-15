@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=Platform%20/%20AIOps%20/%20DevSecOps%20Enthusiast&fontSize=35&animation=fadeIn&fontColor=ffffff&theme=vision-glow" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=Cloud%20Native%20%26%20Intelligent%20Infrastructure%20Enthusiast&fontSize=30&animation=fadeIn&fontColor=ffffff&theme=vision-glow" />
 </p>
 
 # 💫 About Me:
@@ -14,10 +14,17 @@
 <br>
 👨‍💻 DevSecOps Enthusiast with a passion for building secure, scalable, and automated environments.<br><br>🛡️ Focus Areas: Everything related to Networking, Security, and Scripting.<br><br>⚙️ Mission: I love building systems that empower teams—turning complex operations into simple "one-click" solutions to optimize workflows and boost productivity.<br><br>🌍 Philosophy: Huge advocate for Open Source – In code we trust.
 
-### 🎯 Areas of Interest:
-- 🚀 **Platform Engineering** - Building robust Internal Developer Platforms (IDP).
-- 🤖 **AIOps / MLOps** - Automating and scaling AI model lifecycles and infrastructure.
-- 🛡️ **DevSecOps** - Integrating security at every stage of the CI/CD pipeline.
+### 🎓 Completed Courses (KodeKloud):
+- [x] **Docker Training Course** ✅
+- [x] **Kubernetes for the Absolute Beginners** ✅
+- [x] **Linux Basics Course** ✅
+- [x] **Shell Scripts for Beginners** ✅
+
+### 🗺️ Learning Roadmap:
+- [ ] **Certified Kubernetes Administrator (CKA)** ☸️ *(In Progress)*
+- [ ] **Terraform for Beginners** 🏗️
+- [ ] **Ansible for Beginners** 🤖
+- [ ] **DevSecOps Learning Path** 🛡️
 
 ---
 
@@ -42,6 +49,12 @@
 
 ---
 
+## 📊 GitHub Activities
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisignat&theme=vision-glow" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chrisignat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisignat&layout=compact&theme=tokyonight" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisignat&theme=tokyonight" alt="GitHub Streak" />
 </p>
