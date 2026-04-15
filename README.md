@@ -41,12 +41,6 @@
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisignat&theme=dark" alt="GitHub Streak" />
-</p>
-
----
 ### 🎓 Completed Courses (KodeKloud):
 
 - [x] **Docker Training Course** ✅
@@ -68,4 +62,10 @@
 - [ ] **Ansible for Beginners** 🤖
 
 - [ ] **DevSecOps Learning Path** 🛡️
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisignat&theme=dark" alt="GitHub Streak" />
+</p>
+
 ---
