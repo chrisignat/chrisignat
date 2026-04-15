@@ -12,6 +12,11 @@
 <br>
 👨‍💻 DevSecOps Enthusiast with a passion for building secure, scalable, and automated environments.<br><br>🛡️ Focus Areas: Everything related to Networking, Security, and Scripting.<br><br>⚙️ Mission: I love building systems that empower teams—turning complex operations into simple "one-click" solutions to optimize workflows and boost productivity.<br><br>🌍 Philosophy: Huge advocate for Open Source – In code we trust.
 
+### 🎯 Areas of Interest & Growth:
+- 🚀 **Platform Engineering** - Building robust Internal Developer Platforms (IDP).
+- 🤖 **AIOps / MLOps** - Automating and scaling AI model lifecycles and infrastructure.
+- 🛡️ **DevSecOps** - Integrating security at every stage of the CI/CD pipeline.
+
 ---
 
 ## 🌐 Connect with me:
