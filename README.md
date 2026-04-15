@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0077B5&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=chrisignat&label=Profile%20Views&color=0077B5&style=flat-square" alt="Views" />
 </p>
 
 <p align="center">
@@ -37,10 +37,10 @@
 
 ## 📊 GitHub Activities
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vision-glow" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chrisignat&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisignat&layout=compact&theme=vision-glow" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=vision-glow" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisignat&theme=vision-glow" alt="GitHub Streak" />
 </p>
