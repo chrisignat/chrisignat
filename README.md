@@ -41,26 +41,44 @@
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 
 ---
-### 🎓 Completed Courses (KodeKloud):
+🎓 Completed Courses (KodeKloud):
+[x] Learn By Doing: AWS Workshop with Terraform ✅
 
-- [x] **Docker Training Course** ✅
+[x] Kubernetes Networking Deep Dive ✅
 
-- [x] **Kubernetes for the Absolute Beginners** ✅
+[x] Ultimate Certified Kubernetes Administrator (CKA) Mock Exam ✅
 
-- [x] **Linux Basics Course** ✅
+[x] Learn-By-Doing Kubernetes Network Policies ✅
 
-- [x] **Shell Scripts for Beginners** ✅
+[x] Prep Course - Prometheus Certified Associate (PCA) ✅
+
+[x] Learn By Doing: AIOps Foundations ✅
+
+[x] Terraform Associate Certification: HashiCorp ✅
+
+[x] Certified Kubernetes Administrator (CKA) ✅
+
+[x] Docker Certified Associate Exam Course ✅
+
+[x] Running Local LLMs With Ollama ✅
+
+[x] Grafana Loki ✅
+
+[x] AI Agents ✅
+
+[x] Ansible Advanced Course ✅
+
+[x] AI Assisted Ansible ✅
+
+[x] Learn Ansible Basics – Beginners Course ✅
+
+[x] Docker Training Course for the Absolute Beginner ✅
 
 
 
 ### 🗺️ Learning Roadmap:
 
-- [ ] **Certified Kubernetes Administrator (CKA)** ☸️ *(In Progress)*
-
-- [ ] **Terraform for Beginners** 🏗️
-
-- [ ] **Ansible for Beginners** 🤖
-
+- [ ] **Prep Course - Cilium Certified Associate (CCA) Certification**
 - [ ] **DevSecOps Learning Path** 🛡️
 ---
 
